@@ -1,4 +1,4 @@
-# Meal Search  [Live Link](meal-search-vuejs.surge.sh)
+# Meal Search  [Live Link](https://meal-search-vuejs.surge.sh/)
 ## The Meal Finder [Vue Js 3](https://vuejs.org/)
 
 <a href="" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz25RgbNH_kjeKgiG9RtoRRJQZcRQrizfiZ0xOkx5RUTTnYzO6I-oXdSuQOzhdtZYw2s4&usqp=CAU" alt="Food Finder" height="200" width="200"></a>
